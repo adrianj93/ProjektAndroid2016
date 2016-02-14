@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Moje miejsca</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="userName"></string>
+
+    <string name="button_showme">Pokaż zapisaną lokację</string>
+    <string name="button_logout">Usuń moje dane</string>
+    <string name="button_savelocation">Zapisz tą lokację</string>
+
+    <string name="title_activity_welcome">Moje miejsca</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
